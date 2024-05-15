@@ -1,4 +1,4 @@
-[![MasterHead](https://rb.gy/1dtheb)](https://www.datascienceportfol.io/Calfav)
+
 <h1 align="center">Hi 👋, I'm Nwaigwe Caleb</h1>
 <h3 align="center">I am a dedicated and results-oriented Data Analyst with years of experience specializing in data analysis, project management, and reporting. My expertise lies in leveraging a combination of strong business acumen and technical skills to optimize data processes and drive strategic decision-making</h3>
 <img align="right" alt="Data Analysis" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/61304afeafa2c126c1aa53d4_Business%20Plan.gif"/>
