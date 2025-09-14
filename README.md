@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/Calfav](https://www.datascienceportfol.io/Calfav)
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/Calfav](https://codebasics.io/portfolio/Caleb-ChNwaigwe)
 
-- 💬 Ask me about **Excel,Power BI,Tableau, SQL, Python, ETL**
+- 💬 Ask me about **Excel, Power BI, Tableau, Python (NumPy, Pandas, Scikit-Learn, Flask, NLTK, TensorFlow), PySpark, R, SQL.**
 
 - 📫 How to reach me **calfavour@gmail.com**
 
