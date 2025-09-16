@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/Calfav](https://codebasics.io/portfolio/Caleb-ChNwaigwe)
+- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Caleb-ChNwaigwe)
 
 - 💬 Ask me about **Excel, Power BI, Tableau, Python (NumPy, Pandas, Scikit-Learn, Flask, NLTK, TensorFlow), PySpark, R, SQL.**
 
